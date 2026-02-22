@@ -25,7 +25,7 @@ int main() {
     int b = 2;
     std::cout << "Product: " << b * a << '\n';
 
-    //Name Space Testing
+    //Name Space Testing https://www.youtube.com/watch?v=-TkoO8Z07hI
     int x = 0;
     std::cout << x << '\n';
     std::cout << primary::x << '\n';
